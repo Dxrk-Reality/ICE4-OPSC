@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316594948699",
+    "project_id": "ice4-opsc-acdb1",
+    "storage_bucket": "ice4-opsc-acdb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316594948699:android:a558da93ffbc3aab644d7e",
+        "android_client_info": {
+          "package_name": "com.example.ice4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqpJMfHfZwhPKJU3nj0mCpHLPy9dk_Lio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
